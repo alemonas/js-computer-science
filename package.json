@@ -1,0 +1,8 @@
+{
+  "name": "js-computer-science",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:alemonas/js-computer-science.git",
+  "author": "Alejandro Monasterios <alejandro.monasterios@gmail.com>",
+  "license": "MIT"
+}
